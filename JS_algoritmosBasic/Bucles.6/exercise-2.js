@@ -2,4 +2,21 @@
 // cuando el resto del numero dividido entre 2 sea 0.
 
 
-//NO SE HACE
+let numeros = []
+
+for ( let i = 0; i <= 9; i++){
+
+ if  (i % 2 ===0){
+    console.log(i)
+
+ }
+
+}
+    
+}
+
+
+
+
+
+
